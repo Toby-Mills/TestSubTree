@@ -1,2 +1,3 @@
 First line of text
 And then a second
+Third line comes via the parent project
